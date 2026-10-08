@@ -102,8 +102,8 @@ Neste repositório você encontrará os artefatos gerados ao longo do projeto:
    - Guia passo a passo para administradores SysAdmin/DevOps executarem a verificação prática dos 70 controles no servidor Linux/Kubernetes.
 4. **🛡️ Security Baseline & Threat Model**: [`n8n-production-security-baseline.md`](./artefatos/n8n-production-security-baseline.md) e [`n8n-threat-model-production.md`](./artefatos/n8n-threat-model-production.md)
    - Matrizes técnicas completas de baseline e modelagem de ameaças.
-5. **🖼️ Prints do Notebook**:
-   - *(Adicione aqui suas capturas de tela mostrando a interface do Gemini Notebook / NotebookLM, a lista de fontes carregadas e o painel Studio)*
+5. **📉 Apresentação do Relatório Executivo**: [`n8n_Production_Security.pptx`](./artefatos/n8n_Production_Security.pptx)
+   - Apresentação estruturada em pptx dos resultados do relatório executivo principal.
 
 ---
 
