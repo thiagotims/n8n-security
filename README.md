@@ -94,7 +94,7 @@ A pesquisa seguiu um percurso metodológico estruturado em etapas até a consoli
 
 Neste repositório você encontrará os artefatos gerados ao longo do projeto:
 
-1. **📄 Relatório Executivo Principal**: [`n8n-relatorio-executivo-seguranca.md`](./n8n-relatorio-executivo-seguranca.md)
+1. **📄 Relatório Executivo Principal**: [`n8n-relatorio-executivo-seguranca.md`](./artefatos/n8n-relatorio-executivo-seguranca.md)
    - O documento final consolidado (equivalente a 10 páginas) cobrindo as 15 seções estratégicas de segurança, baseline, controles P0/P1/P2, LGPD e roadmap.
 2. **🎙️ Podcast em Áudio**: [`Como blindar o n8n contra ataques`](./Como%20blindar%20o%20n8n%20contra%20ataques)
    - Visão geral dinâmica e leve em formato de áudio (gerado via Studio do Gemini Notebook) discutindo os principais pontos do relatório executivo.
