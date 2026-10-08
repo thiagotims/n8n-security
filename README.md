@@ -96,11 +96,11 @@ Neste repositório você encontrará os artefatos gerados ao longo do projeto:
 
 1. **📄 Relatório Executivo Principal**: [`n8n-relatorio-executivo-seguranca.md`](./artefatos/n8n-relatorio-executivo-seguranca.md)
    - O documento final consolidado (equivalente a 10 páginas) cobrindo as 15 seções estratégicas de segurança, baseline, controles P0/P1/P2, LGPD e roadmap.
-2. **🎙️ Podcast em Áudio**: [`Como blindar o n8n contra ataques`](./Como%20blindar%20o%20n8n%20contra%20ataques)
+2. **🎙️ Podcast em Áudio**: [`Como blindar o n8n contra ataques`](./artefatos/Como%20blindar%20o%20n8n%20contra%20ataques)
    - Visão geral dinâmica e leve em formato de áudio (gerado via Studio do Gemini Notebook) discutindo os principais pontos do relatório executivo.
-3. **📋 Checklist Operacional de Auditoria**: [`n8n-operational-audit-checklist.md`](./n8n-operational-audit-checklist.md)
+3. **📋 Checklist Operacional de Auditoria**: [`n8n-operational-audit-checklist.md`](./artefatos/n8n-operational-audit-checklist.md)
    - Guia passo a passo para administradores SysAdmin/DevOps executarem a verificação prática dos 70 controles no servidor Linux/Kubernetes.
-4. **🛡️ Security Baseline & Threat Model**: [`n8n-production-security-baseline.md`](./n8n-production-security-baseline.md) e [`n8n-threat-model-production.md`](./n8n-threat-model-production.md)
+4. **🛡️ Security Baseline & Threat Model**: [`n8n-production-security-baseline.md`](./artefatos/n8n-production-security-baseline.md) e [`n8n-threat-model-production.md`](./artefatos/n8n-threat-model-production.md)
    - Matrizes técnicas completas de baseline e modelagem de ameaças.
 5. **🖼️ Prints do Notebook**:
    - *(Adicione aqui suas capturas de tela mostrando a interface do Gemini Notebook / NotebookLM, a lista de fontes carregadas e o painel Studio)*
