@@ -108,3 +108,12 @@ Neste repositório você encontrará os artefatos gerados ao longo do projeto:
 ---
 
 🔗 **Link para o Notebook Compartilhado**: [Acesse o Notebook no Gemini Notebook / NotebookLM](INSIRA_O_SEU_LINK_AQUI)
+
+---
+
+## 🧑‍💻 Autor / Contato
+**Thiago Tim**  
+
+Contribuições são bem-vindas!  Entre em contato:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devtim/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thiagotimdev@gmail.com)
+
