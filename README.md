@@ -96,7 +96,7 @@ Neste repositório você encontrará os artefatos gerados ao longo do projeto:
 
 1. **📄 Relatório Executivo Principal**: [`n8n-relatorio-executivo-seguranca.md`](./artefatos/n8n-relatorio-executivo-seguranca.md)
    - O documento final consolidado (equivalente a 10 páginas) cobrindo as 15 seções estratégicas de segurança, baseline, controles P0/P1/P2, LGPD e roadmap.
-2. **🎙️ Podcast em Áudio**: [`Como blindar o n8n contra ataques`](./artefatos/Como%20blindar%20o%20n8n%20contra%20ataques)
+2. **🎙️ Podcast em Áudio**: [`Como blindar o n8n contra ataques`](./artefatos/Como_blindar_o_n8n_contra_ataques.mp3)
    - Visão geral dinâmica e leve em formato de áudio (gerado via Studio do Gemini Notebook) discutindo os principais pontos do relatório executivo.
 3. **📋 Checklist Operacional de Auditoria**: [`n8n-operational-audit-checklist.md`](./artefatos/n8n-operational-audit-checklist.md)
    - Guia passo a passo para administradores SysAdmin/DevOps executarem a verificação prática dos 70 controles no servidor Linux/Kubernetes.
