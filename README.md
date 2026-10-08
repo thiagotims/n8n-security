@@ -107,7 +107,7 @@ Neste repositório você encontrará os artefatos gerados ao longo do projeto:
 
 ---
 
-🔗 **Link para o Notebook Compartilhado**: [Acesse o Notebook no Gemini Notebook / NotebookLM](INSIRA_O_SEU_LINK_AQUI)
+🔗 **Link para o Notebook Compartilhado**: [Acesse o Notebook no Gemini Notebook / NotebookLM](https://notebook.google.com/notebook/64c2fd2a-1a34-4c80-acb8-dbbee7efd133)
 
 ---
 
